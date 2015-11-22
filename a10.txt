@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 noooo
+=======
+ Zdraveiteeeeeee
+>>>>>>> branch1
